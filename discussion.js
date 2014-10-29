@@ -3,7 +3,7 @@ var site = {
 	"body" : "Yes or no...",
 	"replies" : [ { //reply count: 6
 		"title" : "Yes!",
-		"body" : "He's a diligent, friendly and capable guy...What more do you wantves to learn. What more could you want?",
+		"body" : "He's a diligent, friendly and capable guy...What more could you want?",
 		"replies" : [ //reply count: 1
 			{ "title" : "I agree",
 			  "body" : "Plus he's got a great sense of humor",
